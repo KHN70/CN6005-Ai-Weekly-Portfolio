@@ -1,0 +1,30 @@
+Task 1 
+
+
+
+
+
+
+Task 2
+q1:P(C1| X = (sunny,hot,high,false))
+P(play = yes) = 9/14
+P(play = no) = 5/14
+
+P(sunny| no) = 3/14
+P(sunny| yes) = 1/14
+P(hot| no) = 2/14
+P(hot| yes) = 2/14
+P(high| no) = 4/14
+P(high| yes) = 3/14
+P(false| no) = 2/14
+P(false| yes) = 6/14
+
+P(X| no) = 3/2401
+P(X| yes) = 9/9604
+
+P(yes| X) =9/19208
+P(no| X) =3/4802
+
+task 3
+q1 = 1/5
+q2 = 1/5
