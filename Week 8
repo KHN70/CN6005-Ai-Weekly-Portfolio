@@ -34,5 +34,6 @@ IG(Engine Problem) = E(D) - E(Engine Problem) = 1 - 0.875 = 0.125
 2. Calculate Gini Impurity:
  o Perform the same split analysis using Gini Impurity.
  o Compare the splits obtained with Entropy and Gini.
+
 3. Construct the Tree:
  o Build the decision tree manually based on your calculations.
